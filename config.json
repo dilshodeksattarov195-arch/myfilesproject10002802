@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authfetch",
+        "uuid": 28036812,
+        "checksum": "tq4e0t"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
